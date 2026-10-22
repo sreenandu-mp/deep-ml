@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 8 problems · 0 labs · 2 math
+**11** solved · 8 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-10-20 | [solution](math/0033-expectation-and-variance-algebra) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-04 | [solution](math/0030-ml-workflow-basics) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-22 | [solution](math/0014-orthogonality-and-projections) |
 
 ---
 
